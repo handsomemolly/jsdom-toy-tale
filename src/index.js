@@ -71,6 +71,7 @@ function buildCard(toy) {
   let toyCollection = document.querySelector('#toy-collection')
 
   div.className = 'card'
+  div.id = toy.id
   h2.textContent = toy.name
   img.src = toy.image
   img.className = 'toy-avatar'

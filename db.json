@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 9
+      "likes": 12
     },
     {
       "id": 3,
@@ -51,7 +51,7 @@
     {
       "name": "Gilbert",
       "image": "https://static.scientificamerican.com/sciam/cache/file/6E7D93A2-C52D-4468-990EFEAECB84F8DE.jpg?w=590&h=393",
-      "likes": 3,
+      "likes": 4,
       "id": 11
     }
   ]
